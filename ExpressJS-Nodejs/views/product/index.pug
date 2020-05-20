@@ -1,0 +1,11 @@
+extends ../../layouts/common
+block content
+  .container
+  h1 Products
+  .row
+    each product in products   
+      .col-4 
+        p= product.name
+        p= product.fee
+        a.btn.btn-primary(href="/cart/add/"+product.id) Add
+

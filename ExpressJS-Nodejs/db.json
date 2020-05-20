@@ -1,0 +1,165 @@
+{
+  "users": [
+    {
+      "name": "minh",
+      "id": "tLQULirB",
+      "email": "17520758@gm.uit.edu.vn",
+      "password": "e10adc3949ba59abbe56e057f20f883e"
+    },
+    {
+      "name": "Minh nguyen",
+      "phone": "123",
+      "id": "SJpwDpAL3"
+    },
+    {
+      "name": "17520758",
+      "phone": "02139123",
+      "id": "yPyFPY8Jc"
+    },
+    {
+      "name": "17520758",
+      "phone": "02139123",
+      "id": "nv7qIS4cg"
+    },
+    {
+      "name": "17520758",
+      "phone": "02139123",
+      "id": "zJLTl8Ku-"
+    },
+    {
+      "name": "17520758",
+      "phone": "ádasd",
+      "id": "GSLf7WaiJ"
+    },
+    {
+      "name": "asd",
+      "phone": "sad",
+      "id": "30CKLgArc"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Comedy",
+      "fee": 98
+    },
+    {
+      "id": 2,
+      "name": "Drama",
+      "fee": 3
+    },
+    {
+      "id": 3,
+      "name": "Action|Drama|War",
+      "fee": 97
+    },
+    {
+      "id": 4,
+      "name": "Horror",
+      "fee": 25
+    },
+    {
+      "id": 5,
+      "name": "Comedy",
+      "fee": 77
+    },
+    {
+      "id": 6,
+      "name": "Drama|Mystery|Romance|Thriller",
+      "fee": 46
+    },
+    {
+      "id": 7,
+      "name": "Drama|War",
+      "fee": 14
+    },
+    {
+      "id": 8,
+      "name": "Crime|Drama",
+      "fee": 9
+    },
+    {
+      "id": 9,
+      "name": "Adventure|Animation|Children",
+      "fee": 55
+    },
+    {
+      "id": 10,
+      "name": "Crime|Drama",
+      "fee": 7
+    },
+    {
+      "id": 11,
+      "name": "Comedy",
+      "fee": 15
+    },
+    {
+      "id": 12,
+      "name": "Crime|Drama|Mystery|Thriller",
+      "fee": 11
+    },
+    {
+      "id": 13,
+      "name": "Drama|Horror|Thriller",
+      "fee": 99
+    },
+    {
+      "id": 14,
+      "name": "Drama",
+      "fee": 50
+    },
+    {
+      "id": 15,
+      "name": "Action|Comedy|Crime|Romance",
+      "fee": 44
+    },
+    {
+      "id": 16,
+      "name": "Comedy",
+      "fee": 29
+    },
+    {
+      "id": 17,
+      "name": "Comedy|Western",
+      "fee": 39
+    },
+    {
+      "id": 18,
+      "name": "Comedy|Horror",
+      "fee": 57
+    },
+    {
+      "id": 19,
+      "name": "Adventure|Animation|Children|Fantasy|IMAX",
+      "fee": 7
+    },
+    {
+      "id": 20,
+      "name": "Drama|Romance",
+      "fee": 24
+    }
+  ],
+  "sessions": [
+    {
+      "id": "iDyOcXygr"
+    },
+    {
+      "id": "mEysVytt4"
+    },
+    {
+      "id": "YBXS7DW1j",
+      "cart": [
+        null,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "dRKCwLi5c",
+      "cart": [
+        null,
+        1
+      ]
+    }
+  ]
+}
